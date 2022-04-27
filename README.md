@@ -1,6 +1,6 @@
 # GhettoKeyboard
 
-For when your Logitech keyboard decides to randomly die.
+For when your only USB keyboard decides to randomly die and you _really_ need to control a PC without remote management.
 
 This code is written for the stm32f411CE black pill, but it should be easily portable to other MCUs which have the DWC2 USB hardware and a U(S)ART.
 
